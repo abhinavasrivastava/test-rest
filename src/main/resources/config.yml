@@ -1,0 +1,12 @@
+on:
+  port: 3000
+  address: 0.0.0.0
+ 
+admin:
+  port: same
+  address: 0.0.0.0
+ 
+app:
+  home: /
+  contextPath: /
+ 
